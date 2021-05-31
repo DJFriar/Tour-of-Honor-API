@@ -1,0 +1,18 @@
+{      
+    "Name": "Global War on Terrorism",
+    "Code": "DE1",
+    "Category": 1,
+    "Region": "Mid-Atlantic",
+    "Latitude": "39.79696",
+    "Longitude": "-75.46394",
+    "Address1": "3110 Philadelphia Pike",
+    "City": "Claymont",
+    "State": "DE",
+    "Access": "24/7",
+    "MultiImage": 1,
+    "Restrictions": 0,
+    "RallyYear": 2021,
+    "Metadata": [{
+        "About": "The 7,000-square-foot memorial aims to honor all fallen law enforcement officers, firefighters and medics in the region. Two walls hold the names of fallen first responders and another wall holds insignias of different agencies as well as their explanations. In the middle of the memorial is a statue featuring a law enforcement officer and a paramedic comforting a firefighter who has lost someone.\n\nThis wonderful memorial is part of the sprawling Leroy Elmore Park with a lake, a perfect spot to remember First Responder heroes."
+    }]
+}
