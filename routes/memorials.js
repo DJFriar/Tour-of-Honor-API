@@ -6,8 +6,19 @@ const Sequelize = require("sequelize");
 
 module.exports = function (app) {
 
+  // GET
   app.get('/v1/memorials', function(req, res, next) {
     db.Memorial.findAll({
+      //attributes: ['Name', 'Code',"Category","Region"]
+    }).then(result => {
+     
+      res.json(result);
+    });
+  });
+  app.get('/v1/memorials/:uid', function(req, res, next) {
+    const uid = req.params.uid;
+
+    db.Memorial.findOne({where:{id:uid}
       //attributes: ['Name', 'Code',"Category","Region"]
     }).then(result => {
      

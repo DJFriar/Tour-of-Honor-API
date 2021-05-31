@@ -1,0 +1,16 @@
+{
+    "id": 1,
+    "FirstName": "Tommy",
+    "LastName": "Craft",
+    "Email": "me@tommyc.net",
+    "Password": "UPDATEME",
+    "UserRole": "Admin",
+    "FlagNumber": {"2019":"541","2020":"713","2021":"713"},
+    "isRider": false,
+    "isScorer": false,
+    "wToken": null,
+    "iToken": null,
+    "aToken": null,
+    "createdAt": "2021-05-31T23:37:30.000Z",
+    "updatedAt": "2021-05-31T23:37:30.000Z"
+}
